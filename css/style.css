@@ -88,7 +88,7 @@ nav a:hover {
 
 footer {
 	text-align: center;
-	background: url("bg.jpg");
+	background: black;
 	padding: 40px 0;
 }
 
@@ -157,6 +157,7 @@ td, th {
 /* css da página inicial */
 .banner {
 	width:100%;
+	box-shadow: 8px 1px 10px 0 black;
 }
 
 .titulo-principal {
